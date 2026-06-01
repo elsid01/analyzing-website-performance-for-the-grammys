@@ -95,24 +95,6 @@ Metrics were analyzed across:
 - Interpreted findings from traffic and engagement analyses.
 - Developed recommendations for The Recording Academy regarding the website split strategy.
 
----
-
-## Dashboard Preview
-
-### Website Traffic Analysis
-
-_Dashboard screenshot will be added here._
-
-### Engagement Metrics Comparison
-
-_Dashboard screenshot will be added here._
-
-### Mobile Visitor Analysis
-
-_Dashboard screenshot will be added here._
-
----
-
 ## Key Findings
 
 ### Traffic Analysis
